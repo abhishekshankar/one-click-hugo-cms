@@ -5,18 +5,22 @@ image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Wojo?
   text: >-
+    Wojo is a unit price for a particular work for a specific skill level. Wojo
+    brings technology to connect the skills and work gap. Wojo finds a persons
+    ablity to do a particular tasks and provides him work in unit forms. Wojo
+    finds the actual value to do the task and makes sure that people get paid
+    instantly for the work they do. Wojo platform also keeps scoring for skills
+    added, work previosuly done and all other aspects for talent building. All
+    of this builds a perfect system for a more efficient substitute to work done
+    in corporate setting.
+intro:
+  heading: What we offer
+  text: >-
     Wojo believes that for centuries the way work is done has not been
     challenged well. Microworks platforms are still not focusing on the right
     problems. We need traditional companies to see value and ease in doing work
     through microtasks. When this comfortability is achieved and work is
     presented to right skills in right way, inflection will come. 
-intro:
-  heading: What we offer
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
