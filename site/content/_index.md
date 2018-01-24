@@ -1,14 +1,15 @@
 ---
 title: 'Work Mojo : Future of Work'
-subtitle: Microwork Platform with Real Talent
+subtitle: Human skills as a Service
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why Wojo?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Wojo believes that for centuries the way work is done has not been
+    challenged well. Microworks platforms are still not focusing on the right
+    problems. We need traditional companies to see value and ease in doing work
+    through microtasks. When this comfortability is achieved and work is
+    presented to right skills in right way, inflection will come. 
 intro:
   heading: What we offer
   text: >-
